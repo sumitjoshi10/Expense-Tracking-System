@@ -49,4 +49,3 @@ It allows users to effortlessly track, manage, and visualize daily expenses thro
    ```bash
    pytest tests/
    ```
-7. 
